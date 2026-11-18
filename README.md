@@ -24,3 +24,7 @@ For a project repository, the URL is usually `https://<your-username>.github.io/
 
 ## Deploy
 This is a static site and can be hosted on GitHub Pages, Netlify or Vercel. Upload the contents of this folder to a repository or hosting project and enable static-site deployment. A public URL is not created by this package itself.
+
+
+## Resume
+The portfolio includes a concise resume overview and a downloadable copy of `Nikhil_Sharma_CV.docx`. Review the CV before publishing and make sure you are comfortable sharing all contact and certification details publicly.
